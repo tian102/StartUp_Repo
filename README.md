@@ -2,7 +2,7 @@
 Template repository for Projects
 
 
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+<a href="http://fvcproductions.com"><img src="https://avatars2.githubusercontent.com/u/15708473?s=400&u=e85cd9983ec5289db0a0d02365f155e1b274f493&v=4&s=200" title="TianProductions" alt="TianProductions"></a>
 
 <!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
@@ -160,7 +160,7 @@ $ bower install
 
 | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
 | :---: |:---:| :---:|
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
+| [![FVCproductions](https://avatars2.githubusercontent.com/u/15708473?s=400&u=e85cd9983ec5289db0a0d02365f155e1b274f493&v=4&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars2.githubusercontent.com/u/15708473?s=400&u=e85cd9983ec5289db0a0d02365f155e1b274f493&v=4&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars2.githubusercontent.com/u/15708473?s=400&u=e85cd9983ec5289db0a0d02365f155e1b274f493&v=4&s=200)](http://fvcproductions.com)  |
 | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
 
 - You can just grab their GitHub profile image URL
