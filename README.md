@@ -2,7 +2,7 @@
 Template repository for Projects
 
 
-<a href="http://fvcproductions.com"><img src="https://avatars2.githubusercontent.com/u/15708473?s=400&u=e85cd9983ec5289db0a0d02365f155e1b274f493&v=4&s=200" title="TianProductions" alt="TianProductions"></a>
+<a href="https://github.com/tian102"><img src="https://avatars2.githubusercontent.com/u/15708473?s=400&u=e85cd9983ec5289db0a0d02365f155e1b274f493&v=4&s=200" title="https://github.com/tian102" alt="https://github.com/tian102"></a>
 
 <!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
@@ -158,10 +158,10 @@ $ bower install
 
 > Or Contributors/People
 
-| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
+| <a href="https://github.com/tian102" target="_blank">**Tian102**</a> | <a href="http://tianpretorius.co.za" target="_blank">**tianpretorius.co.za**</a> | <a href="https://github.com/tian102" target="_blank">**Tian102**</a> |
 | :---: |:---:| :---:|
-| [![FVCproductions](https://avatars2.githubusercontent.com/u/15708473?s=400&u=e85cd9983ec5289db0a0d02365f155e1b274f493&v=4&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars2.githubusercontent.com/u/15708473?s=400&u=e85cd9983ec5289db0a0d02365f155e1b274f493&v=4&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars2.githubusercontent.com/u/15708473?s=400&u=e85cd9983ec5289db0a0d02365f155e1b274f493&v=4&s=200)](http://fvcproductions.com)  |
-| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
+| [![github.com/tian102](https://avatars2.githubusercontent.com/u/15708473?s=400&u=e85cd9983ec5289db0a0d02365f155e1b274f493&v=4&s=200)](https://github.com/tian102)    | [![github.com/tian102](https://avatars2.githubusercontent.com/u/15708473?s=400&u=e85cd9983ec5289db0a0d02365f155e1b274f493&v=4&s=200)](https://github.com/tian102) | [![github.com/tian102](https://avatars2.githubusercontent.com/u/15708473?s=400&u=e85cd9983ec5289db0a0d02365f155e1b274f493&v=4&s=200)](https://github.com/tian102)  |
+| <a href="https://github.com/tian102" target="_blank">`github.com/tian102`</a> | <a href="https://github.com/tian102" target="_blank">`github.com/tian102`</a> | <a href="https://github.com/tian102" target="_blank">`github.com/tian102`</a> |
 
 - You can just grab their GitHub profile image URL
 - You should probably resize their picture using `?s=200` at the end of the image URL.
